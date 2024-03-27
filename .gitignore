@@ -1,0 +1,6 @@
+# data/*
+fig/*
+__pycache__/
+mistralai/*
+google/*
+Qwen/*
